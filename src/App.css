@@ -6,3 +6,7 @@
 .App > div {
   margin-right: 50px;
 }
+.toDoList{
+  border: 2px solid hotpink;
+  border-radius: 5px;
+}
